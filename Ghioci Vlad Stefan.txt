@@ -1,0 +1,36 @@
+Tema: 9
+Nota4.0
+Predata in saptamana: 10
+Deadline: 10
+Feedbkack: 
+
+Tema: 9
+Nota10.0
+Predata in saptamana: 10
+Deadline: 10
+Feedbkack: 
+
+Tema: 11
+Nota9.0
+Predata in saptamana: 11
+Deadline: 11
+Feedbkack: fdlldfdls
+
+Tema: 8
+Nota5.0
+Predata in saptamana: 11
+Deadline: 9
+Feedbkack: Nota va fi diminuata cu 5.0 datorita intarzierilor
+
+Tema: 8
+Nota5.0
+Predata in saptamana: 11
+Deadline: 9
+Feedbkack: Nota va fi diminuata cu 2.5 datorita intarzierilor
+
+Tema: 7
+Nota1.0
+Predata in saptamana: 11
+Deadline: 8
+Feedbkack: Nota va fi diminuata cu 2.5 datorita intarzierilor
+

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <Student id="0">
+        <name>Filipoiu George</name>
+        <group>223</group>
+        <email>filipoiu@gmail.com</email>
+        <labTeacher>Guran</labTeacher>
+    </Student>
+    <Student id="1">
+        <name>Ghioci Vlad Stefan</name>
+        <group>223</group>
+        <email>ghiocel@gmail.com</email>
+        <labTeacher>Istrascu</labTeacher>
+    </Student>
+    <Student id="2">
+        <name>Grigore Gheorghe</name>
+        <group>224</group>
+        <email>grigoras@gmail.com</email>
+        <labTeacher>Camelia</labTeacher>
+    </Student>
+    <Student id="3">
+        <name>Vasilache Constantin</name>
+        <group>225</group>
+        <email>grigoras@gmail.com</email>
+        <labTeacher>Camelia</labTeacher>
+    </Student>
+    <Student id="4">
+        <name>Alexandrecu Ion</name>
+        <group>221</group>
+        <email>alexandrescu@gmail.com</email>
+        <labTeacher>Camelia</labTeacher>
+    </Student>
+    <Student id="5">
+        <name>Mihai Anghel</name>
+        <group>227</group>
+        <email>mihaius@gmail.com</email>
+        <labTeacher>Camelia</labTeacher>
+    </Student>
+    <Student id="6">
+        <name>Alex Alexandru</name>
+        <group>222</group>
+        <email>alexs@gmail.com</email>
+        <labTeacher>Guran</labTeacher>
+    </Student>
+</root>

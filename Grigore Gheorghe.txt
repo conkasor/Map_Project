@@ -1,0 +1,18 @@
+Tema: 8
+Nota7.5
+Predata in saptamana: 10
+Deadline: 9
+Feedbkack: NOTA A FOST DIMINUATĂ CU2.5DATORITA INTARZIERILOR
+
+Tema: 8
+Nota5.0
+Predata in saptamana: 11
+Deadline: 9
+Feedbkack: Nota va fi diminuata cu 2.5 datorita intarzierilor
+
+Tema: 7
+Nota1.0
+Predata in saptamana: 11
+Deadline: 8
+Feedbkack: Nota va fi diminuata cu 5.0 datorita intarzierilor
+

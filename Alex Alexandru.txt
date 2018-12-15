@@ -1,0 +1,6 @@
+Tema: 9
+Nota1.5
+Predata in saptamana: 11
+Deadline: 10
+Feedbkack: Nota va fi diminuata cu 2.5 datorita intarzierilor
+
