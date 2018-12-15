@@ -72,7 +72,7 @@ public class Grade implements  HasID<Integer>{
         this.value = value;
         this.id = id;
         this.weekGraded = weekGraded;
-        this.feedback = feedback;
+        this.feedback = feedback;//;l;k;lk;lkl;;l
     }
     public void calculate() throws GradeHomeworkException {
         int deadline =homework.getDeadline();
